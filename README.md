@@ -1,2 +1,2 @@
-# vschool
+# school
 Virtual School
